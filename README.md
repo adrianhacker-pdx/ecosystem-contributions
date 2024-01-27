@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/robot-1470108_640.png
-coverY: -67.57333333333332
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -17,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Optimism Contributor Guide
+# The Optimism Contributor Guide
 
 Do you want to contribute to the Optimism Ecosystem and help bring about a fair economy for all?  There are tasks for every skill set and every skill level. &#x20;
 
@@ -43,7 +38,7 @@ Different ways to contribute to the Optimism Collective are loosely organized in
 
 ### ✨ Contribution Opportunities
 
-Contribution Opportunities are concrete and tightly-scoped ways for you to contribute to the Optimism Collective ecosystem (e.g., “review the Bedrock smart contracts” or “fix this specific bug”). Contribution Opportunities are generally smaller tasks and require less context so that you can get to work right away. Available opportunities might touch many different codebases within the broader Optimism ecosystem.
+Contribution Opportunities are concrete and tightly scoped ways for you to contribute to the Optimism Collective ecosystem (e.g., “review the Bedrock smart contracts” or “fix this specific bug”). Contribution Opportunities are smaller tasks and require less context so that you can get to work right away. Available opportunities might touch many different codebases within the broader Optimism ecosystem.
 
 [Click here to view all available Contribution Opportunities.](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22Contribution+Opportunity%22)
 
@@ -55,7 +50,7 @@ Mad Science Project Ideas are ideas for projects that could work well as a fun h
 
 ### 📝 Draft Project Ideas
 
-Draft Project Ideas are ideas for projects that have value for the Optimism ecosystem but may not yet be fully understood in a manner that can be deeply specified. Here you'll find stuff that makes you think, "this would be really useful, but I'm not exactly sure how it would work in practice". Are you going to be the one to figure out how it should work?
+Draft Project Ideas are ideas for projects that have value for the Optimism ecosystem but may not yet be fully understood in a manner that can be deeply specified. Here you'll find stuff that makes you think, "This would be useful, but I'm not exactly sure how it would work in practice". Are you going to be the one to figure out how it should work?
 
 [Click here to view all available Draft Project Ideas.](https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22Draft+Project+Idea%22)
 

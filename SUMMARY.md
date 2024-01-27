@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Optimism Contributor Guide](README.md)
-* [The Optimism Contributor Project Structure](the-optimism-contributor-project-structure/README.md)
-  * [Contributor Work Flows](the-optimism-contributor-project-structure/contributor-work-flows.md)
-* [Page 1](page-1.md)
-* [Page](page.md)
+* [The Optimism Contributor Guide](README.md)
+* [Op Contributor Overview](op-contributor-overview/README.md)
+  * [Contributor Workflows](op-contributor-overview/contributor-workflows.md)
+* [Finding a Project](finding-a-project.md)
+* [Working on a Project](working-on-a-project.md)
