@@ -1,6 +1,6 @@
-# Ecosystem Contributions
+# Optimism Mission Hub
 
-Welcome to the Optimism Collective Ecosystem Contributions repository. Here you'll find various different ways to contribute to the Optimism Collective so that we can build an economy that works for humans, together. 
+Welcome to the Optimism Mission Hub.  This is where all of the contribution opportunities are listed and tracked for Optimism.  This hub has features of a to-do list with the professional touches of a project management system.
 
 ## Table of Contents
 
