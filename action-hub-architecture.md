@@ -1,10 +1,8 @@
-# Op Contributor Overview
+# Action Hub Architecture
 
-The infrastructure&#x20;
+## How to Use
 
-### The Ecosystem Contributor Repository
-
-All the contributor documentation and project tasks are kept in a single repository that exists at this URL:  \[[https://github.com/ethereum-optimism/ecosystem-contributions](https://github.com/ethereum-optimism/ecosystem-contributions)]\([https://github.com/ethereum-optimism/ecosystem-contributions](https://github.com/ethereum-optimism/ecosystem-contributions)).   This is a one-stop shop for everything that is happening to build out and/or improve the Optimism Ecosystem.  This should be the first place you go to find answers to any questions you may have. &#x20;
+All the contributor documentation and actionable items are kept in a single repository that exists at this URL:  [https://github.com/ethereum-optimism/ecosystem-contributions](https://github.com/ethereum-optimism/ecosystem-contributions)  This is a one-stop shop for everything that is happening to build out and/or improve the Optimism Ecosystem.  This should be the first place you go to find answers to any questions you may have. &#x20;
 
 In this repository, you can do things such as find an open project that matches your skills.  Ask questions by posting them as comments in the original GitHub issue.  Look at the Ecosystem Contributor project board.  Propose an ecosystem improvement that can be anything from a minor correction to a completely theoretical and novel use case within the Optimism Ecosystem.
 
